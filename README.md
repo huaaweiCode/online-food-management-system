@@ -1,10 +1,5 @@
 # 在线美食管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**美食1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -52,11 +47,4 @@
 
 ![管理员-美食信息审核](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648683.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**美食1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
